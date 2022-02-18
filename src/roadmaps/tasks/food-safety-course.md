@@ -1,13 +1,17 @@
 ---
-id: "food-safety-course"
-urlSlug: "food-safety-course"
-name: "Complete Food Safety Course"
+urlSlug: food-safety-course
+name: Complete Food Safety Course
+id: food-safety-course
 callToActionLink: ""
 callToActionText: ""
 ---
 
-While not all restaurants are required to do so, many restaurants serving raw food and other delicate items must complete Food Safety Manager Certification training. Speak with you local government's Department of Health to determine if this Certificate is required. You can find [Food Safety Manager training programs](https://www.state.nj.us/health/ceohs/documents/food-drug-safety/fmc_reminder_letter.pdf) on the State of New Jersey's webpage.
+Many restaurants serving raw food and other items must complete Food Safety Management Certification training. Speak with your local government's Department of Health to determine if this Certificate is required for your business.
 
-After you complete this task, you will have:
+You can find [Food Safety Manager training programs](https://www.state.nj.us/health/ceohs/documents/food-drug-safety/fmc_reminder_letter.pdf) on the State of New Jersey's website.
 
-- A Certificate of Completion
+---
+
+>**One completed you will have:**
+>
+>- A Food Safety Management Certificate
