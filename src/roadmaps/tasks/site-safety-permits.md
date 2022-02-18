@@ -11,8 +11,8 @@ Your business site will need to be inspected by your local government to verify 
 ---
 ### Safety Permits 
 
-1. **Fire Prevention Permits:** Obtain any fire prevention or burglar alarm permits from your local Fire Department.
-2. **Certificate of Occupancy/Approval:** If you've completed site renovations, it's time to obtain a `Certificate of Occupancy or Approval|certificate-occupancy` from your local Building/Construction Department.
+* **Fire Prevention Permits:** Obtain any fire prevention or burglar alarm permits from your local Fire Department.
+* **Certificate of Occupancy/Approval:** If you've completed site renovations, it's time to obtain a `Certificate of Occupancy or Approval|certificate-occupancy` from your local Building/Construction Department.
 
 >**Once completed, you will have:**
 >
