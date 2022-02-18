@@ -1,17 +1,20 @@
 ---
-id: "certificate-of-occupancy"
-urlSlug: "site-safety-permits"
-name: "Obtain Site Safety Permits"
+urlSlug: site-safety-permits
+name: Obtain Site Safety Permits
+id: certificate-of-occupancy
 callToActionLink: ""
 callToActionText: ""
 ---
 
-It's time to have your local government verify that your site is safe for customers and workers. Below is a checklist with some of the certificates or permits you may need.
+Your business site will need to be inspected and approved by your local government to verify that it's safe for customers and employees.
 
-1. **Fire Prevent Permits:** Obtain any fire prevention or burglar alarm permits from your local Fire Department.
-2. **Certificate of Occupancy/Approval:** If you've completed site renovations, it's time to obtain a `Certificate of Occupancy or Approval|certificate-occupancy` from your local Building/Construction Department.
+---
+### Safety Permits 
 
-After you complete this task, you will have:
+* **Fire Prevention Permits:** Obtain any fire prevention or burglar alarm permits from your local Fire Department.
+* **Certificate of Occupancy/Approval:** If you've completed site renovations, it's time to obtain a `Certificate of Occupancy or Approval|certificate-occupancy` from your local Building/Construction Department.
 
-- A fire prevention permit
-- A Certificate of Occupancy or Approval
+>**Once completed, you will have:**
+>
+>- A fire prevention permit
+>- A Certificate of Occupancy or Approval
