@@ -6,7 +6,7 @@ callToActionLink: ""
 callToActionText: ""
 ---
 
-Your local government will need to verify that your site is safe for customers and workers.
+Your business site will need to be inspected by your local government to verify that it's safe for customers and workers.
 
 ---
 ### Safety Permits 
