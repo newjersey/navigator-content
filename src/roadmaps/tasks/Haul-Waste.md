@@ -24,5 +24,5 @@ If you collect or haul waste for other companies, you will need to be a [commerc
 
 >**Once you complete this task, you will have:**
 >
->- A DEP account # (If this is your first application with DEP, this will be issued to you once your account is approved.)
->- A DEP issued decal for all necessary vehicles (this is your vehicle's proof of registration)
+>- A DEP account number
+>- A DEP issued decal for all necessary vehicles (this is your vehicle's proof of registration and needs to be attached to your vehicle)
