@@ -3,6 +3,7 @@ urlSlug: conversion-license
 filename: conversionlicense-cannabis
 name: " Submit Your Cannabis Conversion License"
 id: conversionlicense-cannabis
+callToActionLink: https://nj-crc-public.nls.egov.com/#!/signin
 callToActionText: Apply for My Conversion License
 required: true
 issuingAgency: Cannabis Regulatory Commission
