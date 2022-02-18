@@ -19,7 +19,7 @@ You will need to obtain and show site safety permits such as a fire permit and a
 >**Once completed, you will have:**
 >
 >- A Fire Prevention Permit
->- A Certificate of Occupancy/Approval
+>- A Certificate of Occupancy or Approval
 
 >**What if I don't get site safety permits?**
 >
