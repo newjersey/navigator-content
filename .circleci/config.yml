@@ -26,8 +26,8 @@ jobs:
 workflows:
   content-workflow:
     jobs:
-      - build-content
-          #filters:
-          #  branches:
-          #    only:
-          #      - main
+      - build-content:
+          filters:
+            branches:
+              only:
+                - main
