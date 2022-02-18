@@ -6,7 +6,7 @@ callToActionLink: ""
 callToActionText: ""
 issuingAgency: New Jersey Division of Consumer Affairs Board of Cosmetology and Hairstyling
 ---
-Your Cosmetology business' site will need to comply with specific state regulations. Verify that your location will meet the [licensing guidelines](https://www.njconsumeraffairs.gov/regulations/Chapter-28-Board-of-Cosmetology-and-Hairstyling.pdf)
+Your Cosmetology business site will need to comply with specific state regulations. Verify that your location will meet the [licensing guidelines](https://www.njconsumeraffairs.gov/regulations/Chapter-28-Board-of-Cosmetology-and-Hairstyling.pdf)
 
 ---
 ### Considerations
