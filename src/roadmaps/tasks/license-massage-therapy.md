@@ -10,10 +10,7 @@ issuingAgency: New Jersey Division of Consumer Affairs Board of Massage and Body
 You or any staff offering massage therapy services must register and apply for a massage therapy license prior to working with clients. 
 
 ---
-
 ### Application Needs
-
-To apply for a massage therapy license you will need:
 
 * A minimum of 500 hours from an approved massage therapy program
 * An official transcript sent by your school in a sealed envelope
@@ -29,4 +26,4 @@ Your official examination scores will need to be sent directly to the board in a
 
 >**What if I don't complete this form?**
 >
->* If you do not register and obtain a license, you will be working illegally and can receive a fine.
+>* If you do not register and obtain a license, you will be working illegally and can be fined.
