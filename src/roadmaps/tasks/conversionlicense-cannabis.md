@@ -21,7 +21,7 @@ You cannot legally run your business until your conversion license is approved. 
 * Evidence of compliance with local codes and ordinances for the proposed location
 * Zoning approval in the form of a letter or affidavit from appropriate municipal officials stating that the location will conform to local zoning requirements allows for activities related to the operations of the proposed cannabis business and lists any variances granted for the business
 * A resolution adopted by the municipality’s governing body, or where the municipality has no governing body, a written letter of support from the municipality’s executive stating that the applicant is compliant with [Section VIII of Notice of Application Acceptance](https://www.nj.gov/cannabis/documents/businesses/personal-use/Final%20Notice%20of%20Application%20Acceptance.pdf)
-* **Micro Businesses Only:** To gain additional priority, provide an attestation signed by a labor organization stating that the license applicant has entered into a labor peace agreement together (not required)
+*To gain additional priority, provide an attestation signed by a labor organization stating that the license applicant has entered into a labor peace agreement together (not required and no additional bonus considered for micro businesses)
 
 > **Once completed, you will have**
 >
