@@ -6,7 +6,6 @@ callToActionLink: https://newjersey.mylicense.com/eGov/PersonSearchResults.aspx?
 callToActionText: Apply or Verify a CHHA License
 issuingAgency: New Jersey Division of Consumer Affairs Board of Nursing
 ---
-
 Home Health Aide licenses are required for any of your staff offering these services. The State keeps a registry of all individuals who have completed their [education and training programs](https://www.njconsumeraffairs.gov/nur/Pages/default.aspx)
 
 ---
@@ -17,5 +16,5 @@ Home Health Aide licenses are required for any of your staff offering these serv
 
 >**Once completed, you will have:**
 >
->- Your individual license
+>- Your individual license (if you are also acting as a caretaker)
 >- Confirmed your staff is properly licensed
