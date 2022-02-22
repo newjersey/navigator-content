@@ -3,8 +3,7 @@ urlSlug: payment-structure
 name: Determine Your Payment Structure
 id: determine-payment-structure
 ---
-
-As a non-medical transport company, you may want to consider the various types of payment available. Some of them involve an application process. 
+As a non-medical transport company, you may want to consider customer payment options that require an application process. 
 
 ---
 ### Payment Structures
