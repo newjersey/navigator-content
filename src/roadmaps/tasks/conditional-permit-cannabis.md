@@ -29,9 +29,9 @@ If you are looking to get a cannabis license, you should read the [application a
 * Any Vendor-Contractor agreements if the Vendor-Contractor qualifies as an Entity of Interest;
 * [Completed affidavit](https://www.nj.gov/cannabis/documents/businesses/personal-use/Cannabis%20Business%20Applicant%20Affidavit%20Waiver%20Release.pdf)
 * An authorization to release all information pertaining to the license holder
-*  A waiver of liability 
-* Application fees
+*  A waiver of liability for any damages that may result to the Person of Interest from any disclosure or publication in any manner of any information acquired during the licensing process
 * Proof that each owner of the conditional license has for the immediately preceding taxable year, an adjusted gross income of no more than $200,000, or no more than $400,000 if filing jointly with another individual
+* Application fees
 
   **Diversely-Owned Businesses Only:** Copy of Minority or Women-Owned Business Enterprise Certification or Disabled Owned Veteran Certification with the NJ Department of Treasury.
 
