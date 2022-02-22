@@ -5,7 +5,6 @@ id: floor-plan-approval-doh
 callToActionLink: ""
 callToActionText: ""
 ---
-
 Contact your local Department of Health to have your floor plan and kitchen approved. You will need to schedule periodic follow-ups.
 
 ---
