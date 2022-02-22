@@ -5,6 +5,7 @@ name: Apply for a Massage Therapy License
 id: license-massage-therapy
 callToActionLink: https://newjersey.mylicense.com/eGov/Login.aspx
 callToActionText: Apply for My Massage Therapy License
+issuingAgency: New Jersey Division of Consumer Affairs Board of Massage and Bodywork Therapy
 ---
 You must register and apply for a massage therapy license online through the Division of Consumer Affairs' Board of Massage and Bodywork Therapy. If you do not register, you will be working illegally and can receive a fine.
 
