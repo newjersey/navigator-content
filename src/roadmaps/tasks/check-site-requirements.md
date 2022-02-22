@@ -5,11 +5,9 @@ id: check-site-requirements
 callToActionLink: ""
 callToActionText: ""
 ---
-
 Your business site will need to be inspected and approved by your local government to verify that it's safe for customers and employees.
 
 ---
-
 ### Safety Permits
 
 1. **Fire Prevention Permits:** Talk to your Fire Department to make sure your space is meeting requirements, like working sprinklers, extinguishers, and signage.
@@ -19,6 +17,6 @@ Your business site will need to be inspected and approved by your local governme
 
 >**Once completed, you will know:**
 >
->- What permits your local government requires
->- What you need to do to meet those requirements
->- How long it will take to get any permits or certificates
+>- The permits your local government requires
+>- The process for meeting your local government's requirements
+>- The time it takes to receive any permits or licenses
