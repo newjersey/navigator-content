@@ -4,6 +4,7 @@ name: Register Items that will Haul Waste
 id: haul-waste-hic
 callToActionLink: https://www.wastedecals.nj.gov/sg2.html
 callToActionText: Apply for My Waste Hauling Decal
+required: true
 issuingAgency: New Jersey Department of Environmental Protection (DEP)
 ---
 Waste facilities will **only** allow registered vehicles or items to discard waste. You will need to register online and submit payment after you receive an e-mail with payment information. 
