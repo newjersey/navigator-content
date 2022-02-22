@@ -4,9 +4,9 @@ name: Determine Site Requirements
 id: check-site-requirements
 callToActionLink: ""
 callToActionText: ""
-issuingAgency: New Jersey Division of Consumer Affairs Board of Cosmetology and Hairstyling
+required: true
+issuingAgency: ""
 ---
-
 Cosmetology businesses need to obtain and show a Fire Prevention Permit and a `Certificate of Occupancy or Approval|certificate-occupancy` from your local government prior to applying for a shop license.
 
 ---
