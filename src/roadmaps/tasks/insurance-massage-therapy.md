@@ -3,6 +3,7 @@ urlSlug: insurance-massage-therapy
 filename: insurance-massage-therapy
 name: Obtain an Insurance Policy
 id: insurance-massage-therapy
+issuingAgency: New Jersey Board of Massage and Bodywork Therapy
 ---
 The New Jersey Board of Massage and Bodywork Therapy has specific insurance requirements for your business:
 
