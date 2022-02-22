@@ -3,7 +3,7 @@ urlSlug: insurance-massage-therapy
 filename: insurance-massage-therapy
 name: Obtain an Insurance Policy
 id: insurance-massage-therapy
-issuingAgency: New Jersey Board of Massage and Bodywork Therapy
+issuingAgency: New Jersey Division of Consumer Affairs Board of Massage and Bodywork Therapy
 ---
 Your massage therapy business will need to have specific insurance coverage prior to registering your business. To find an insurance broker, speak to your network or local Chamber of Commerce. Oftentimes, the best way to find a broker is through word of mouth.
 
