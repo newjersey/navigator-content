@@ -1,24 +1,21 @@
 ---
+businessSize: yes
+preferenceGiven: yes
 urlSlug: angel-investor-tax
 name: Angel Investor Tax Credit Program
 id: angel-investor-tax-credit-program
 callToActionLink: https://www.njeda.com/angeltaxcredit/
 callToActionText: Learn more
-benefits: ""
-eligibility: ""
 fundingType: tax credit
 agency:
   - NJEDA
 publishStageArchive: ""
-openDate: ""
-dueDate: 11/02/2022
 status: deadline
 programFrequency: reoccuring
 businessStage: early-stage
-businessSize: yes
+employeesRequired: yes
 homeBased: yes
 mwvb: mwbe
-preferenceGiven: yes
 county:
   - All
 sector:
@@ -27,6 +24,10 @@ sector:
   - Clean Energy
   - Offshore Wind
   - Other Services (except Public Administration)
+openDate: ""
+dueDate: 11/02/2022
+eligibility: ""
+benefits: ""
 ---
 
 The New Jersey Angel Investor Tax Credit Program establishes refundable tax credits for qualified investments in New Jersey emerging technology businesses to stimulate investment in the innovation economy.
