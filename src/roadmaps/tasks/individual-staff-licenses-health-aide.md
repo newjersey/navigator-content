@@ -13,7 +13,6 @@ Home Health Aide licenses are required for any of your staff offering these serv
 
 * Pass a criminal background check
 
-
 >**Once completed, you will have:**
 >
 >- Your individual license (if you are also acting as a caretaker)
