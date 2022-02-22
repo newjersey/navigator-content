@@ -18,3 +18,7 @@ The State requires that your massage therapy business have insurance.
 >
 > * A Professional Liability insurance policy for your business
 > * A Worker's Compensation insurance policy (if applicable)
+
+>**What if I don't get insurance?**
+>
+>Without professional liability insurance, you cannot complete your massage therapy business' application. You need an approved application to legally open your business.
