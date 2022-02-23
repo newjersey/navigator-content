@@ -6,7 +6,7 @@ id: determine-payment-structure
 As a non-medical transport company, you may want to consider customer payment options that require an application process. 
 
 ---
-### Payment Structures
+### Payment Options
 
 * Accept payment directly from your customer
 * Bill `Medicaid|Medicaid` through contractor work with `Logisticare|logisticare` or a medical care facility, like a nursing home
