@@ -1,6 +1,6 @@
 ---
 urlSlug: logisticare
-name: Apply for Logisticare if Applicable
+name: Apply for Logisticare If Applicable
 id: logisticare
 callToActionLink: https://www.logisticare.com/sfapplication
 callToActionText: Become a Transportation Provider with Logisticare
@@ -24,4 +24,4 @@ If you are considering billing Medicaid for your non-medical transportation serv
 
 >**Once completed, you will have:**
 >
->- Specific billing information for your transportation business
+>- Logisticare billing information for your transportation business
