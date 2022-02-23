@@ -30,5 +30,5 @@ Your pharmacy business will need a permit from the State before operating. The a
 
 >** Once completed, you will have:**
 >
->* An issued permit #
+>* A permit number issued
 >* A pharmacy permit
