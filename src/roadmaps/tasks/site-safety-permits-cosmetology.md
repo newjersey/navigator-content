@@ -5,7 +5,7 @@ id: certificate-of-occupancy
 callToActionLink: ""
 callToActionText: ""
 required: true
-issuingAgency: New Jersey Division of Consumer Affairs Board of Cosmetology and Hairstyling
+issuingAgency: ""
 ---
 Cosmetology businesses need to obtain and show site safety permits such as a Fire Prevention Permit and a `Certificate of Occupancy or Approval|certificate-occupancy` prior to obtaining a shop license.
 
@@ -21,6 +21,6 @@ Cosmetology businesses need to obtain and show site safety permits such as a Fir
 >- A Fire Prevention Permit
 >- A Certificate of Occupancy or Approval
 
->**What if I don't get site safety permits?**
+>**What if I don't get my Certificate of Occupancy or Approval?**
 >
->You will not be able to submit an application for a shop license.
+>You will not be able to submit an application for a cosmetology shop license.
