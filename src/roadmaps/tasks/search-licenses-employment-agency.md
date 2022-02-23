@@ -6,8 +6,7 @@ callToActionLink: https://www.njconsumeraffairs.gov/epservices
 callToActionText: Apply for an Employment Agency License
 issuingAgency: New Jersey Division of Consumer Affairs Employment and Personnel Services
 ---
-
-You will need to obtain an employment agency license prior to offering staffing services to the public. You will need to speak with and then submit an application to the New Jersey’s Division of Consumer Affairs.
+You will need to obtain an employment agency license prior to offering staffing services. To do this, you must speak with a representative from New Jersey's Employment and Personnel Services.
 
 ---
 >**Once completed, you will have:**
