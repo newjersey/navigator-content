@@ -16,4 +16,4 @@ You or any of your staff providing massage therapy services will need to have in
 
 >**Once completed, you will have:**
 >
->* Confirmation that staff providing massage therapy services have a valid license
+>* Confirmation that the staff providing massage therapy services have a valid license
