@@ -6,7 +6,7 @@ callToActionLink: ""
 callToActionText: ""
 ---
 
-Not all businesses need zoning or sign permits. If you are changing the use of your site, or if you're changing the size or location of your street sign, you may need approval from your local government.
+Not all businesses need zoning or sign permits. If you are changing the use of your site, or if you're changing the size or location of your street sign, you may need to contact your local government to obtain approval.
 
 ---
 ### Necessary Permits
