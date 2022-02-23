@@ -6,7 +6,7 @@ id: license-massage-therapy
 callToActionLink: https://newjersey.mylicense.com/eGov/Login.aspx
 callToActionText: Apply for My Massage Therapy License
 required: true
-issuingAgency: New Jersey Division of Consumer Affairs Board of Massage and Bodywork Therapy
+issuingAgency: New Jersey Division of Consumer Affairs' Board of Massage and Bodywork Therapy
 ---
 You or any staff offering massage therapy services must register and apply for a massage therapy license prior to working with clients. 
 
