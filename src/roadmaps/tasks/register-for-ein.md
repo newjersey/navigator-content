@@ -8,7 +8,7 @@ required: false
 issuingAgency: Internal Revenue Service
 formName: SS-4
 ---
-An `Employer Identification Number (EIN)|ein` is essentially a Social Security Number for your business, provided by the federal government. It's better to get an EIN to avoid using your personal SSN on tax filings and business registrations. If you plan on having employees you will need an EIN.
+An `Employer Identification Number (EIN)|ein` is essentially a Social Security Number for your business, provided by the federal government. It's better to get an EIN to avoid using your personal SSN on tax filings and business registrations. You will need an EIN if you plan to have employees.
 
 ---
 ### Application Needs 
