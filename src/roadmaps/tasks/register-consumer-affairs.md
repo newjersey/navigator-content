@@ -22,4 +22,4 @@ All home improvement contractors (individuals and corporate entities) must regis
 
 >**What if I don't complete this form?**
 >
->* Unregistered contractors who sell or make home improvements may be subject to civil penalties and possibly criminal penalties as well. 
+>* Unregistered contractors who sell or make home improvements may be subject to civil penalties and possibly criminal penalties as well 
