@@ -4,10 +4,10 @@ name: "Register Your Vehicle "
 id: register-vehicle
 callToActionLink: https://www.nj.gov/mvc/vehicles/reginitial.htm
 callToActionText: Obtain or Renew Your Vehicle Registration
+required: true
 issuingAgency: New Jersey Motor Vehicle Commission
 formName: BA-49
 ---
-
 You should ensure your vehicle is properly registered as a passenger vehicle prior to offering transportation services.
 
 ---
