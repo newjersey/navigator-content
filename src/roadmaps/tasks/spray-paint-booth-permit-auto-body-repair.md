@@ -20,4 +20,4 @@ If your business will offer spray paint services to vehicles, you must contact t
 
 >**Once completed, you will have:**
 >
->* Permits required to offer spray paint services
+>* The permits required to offer spray paint services
