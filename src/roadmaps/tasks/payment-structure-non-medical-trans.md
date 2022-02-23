@@ -14,4 +14,4 @@ As a non-medical transport company, you may want to consider customer payment op
 
 > **Once completed, you will know:**
 >
-> * The best payment structure for your business
+> * The best payment structure for your business. (If you plan to apply for Logisticare, we have instructions for this after you register and form your business)
