@@ -1,14 +1,14 @@
 ---
 urlSlug: register-firm-accounting
 filename: register-firm-accounting
-name: Register Your Accounting Firm with New Jersey’s Division of Consumer Affairs
+name: Register Your Accounting Firm
 id: register-firm-accounting
 callToActionLink: https://www.njconsumeraffairs.gov/acc/Applications/Firm-Registration-Application.pdf
 callToActionText: Register My Accounting Firm
 required: true
-issuingAgency: New Jersey Division of Consumer Affairs Board of Accountancy
+issuingAgency: New Jersey Division of Consumer Affairs' Board of Accountancy
 ---
-New accounting firms must obtain certification.
+New accounting firms must register and obtain certification.
 
 ---
 ### Application Needs 
