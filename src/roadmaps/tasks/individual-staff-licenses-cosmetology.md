@@ -3,7 +3,7 @@ urlSlug: individual-staff-licenses-cosmetology
 name: Get Your Individual License and Ensure Your Staff Have Licenses
 id: individual-staff-licenses-cosmetology
 callToActionLink: https://www.njconsumeraffairs.gov/cos/Pages/applications.aspx
-callToActionText: Apply for A Cosmetology License
+callToActionText: Apply for a Cosmetology License
 required: true
 issuingAgency: New Jersey Division of Consumer Affairs Board of Cosmetology and Hairstyling
 ---
