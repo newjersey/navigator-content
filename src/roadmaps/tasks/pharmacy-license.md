@@ -27,7 +27,7 @@ Your pharmacy business needs a permit in order to operate. The permit applicatio
 * Pharmacy counter dimensions (height x width)
 * Required pharmacy equipment (possessed or ordered) and references
 * Picture of any exterior signage (if available at the time of your application)
-* Site inspection date
+* Identified a site inspection date
 
 >** Once completed, you will have:**
 >
