@@ -7,7 +7,6 @@ callToActionLink: https://www.njconsumeraffairs.gov/regulations/Chapter-39-State
 callToActionText: "Read the Pharmacy Handbook "
 issuingAgency: New Jersey Division of Consumer Affairs Board of Pharmacy
 ---
-
 The State regulates pharmacies for the safety of customers and employees, and has released a handbook specifically to help guide pharmacies on State rules.
 
 ---
