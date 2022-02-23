@@ -16,7 +16,7 @@ You or any staff providing accounting services must be licensed as a Certified P
 * 1 year of full-time public accounting experience under the supervision of an active CPA
 * Passing scores on the `Uniform CPA Exam|uniform-cpa-exam` 
 
-### Application Requirements
+### Application Needs
 
 >**Once completed, you will have:**
 >
