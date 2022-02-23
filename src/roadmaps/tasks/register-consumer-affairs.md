@@ -4,6 +4,7 @@ name: Obtain Your Home Improvement Contractor License
 id: register-consumer-affairs
 callToActionLink: https://www.njconsumeraffairs.gov/hic/Applications/Home-Improvement-Contractor-Application-for-Initial-Registration.pdf
 callToActionText: Obtain My Contractor Number
+issuingAgency: New Jersey Division of Consumer Affairs Home Improvement Unit
 ---
 
 All home improvement contractors (individuals and corporate entities) must register with the State and commit to following regulations and guidelines set out in the [Contractor's Registration Act.](https://www.njconsumeraffairs.gov/hic/Applications/Home-Improvement-Contractor-Application-for-Initial-Registration.pdf)
@@ -17,7 +18,7 @@ All home improvement contractors (individuals and corporate entities) must regis
 >**Once completed, you will have:**
 >
 >- A New Jersey Home Improvement Contractor (NJHIC) number
->- Official paper registration received by mail (also known as a registration card)
+>- An official paper registration received by mail (also known as a registration card)
 
 >**What if I don't complete this form?**
 >
