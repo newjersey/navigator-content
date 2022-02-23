@@ -5,9 +5,10 @@ name: Register Your Accounting Firm with New Jersey’s Division of Consumer Aff
 id: register-firm-accounting
 callToActionLink: https://www.njconsumeraffairs.gov/acc/Applications/Firm-Registration-Application.pdf
 callToActionText: Register My Accounting Firm
+required: true
 issuingAgency: New Jersey Division of Consumer Affairs Board of Accountancy
 ---
-New public accounting firms must be registered with the State.
+New accounting firms must obtain certification.
 
 ---
 ### Application Needs 
