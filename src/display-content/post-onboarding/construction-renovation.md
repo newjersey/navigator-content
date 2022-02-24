@@ -14,7 +14,7 @@ Once you have all the necessary drawings, approvals, and contractors in place, y
 
 After you complete this task (if applicable), you will have:
 
-* Site drawings
-* Utility approvals
-* Construction permits
-* Contractors for build out
+** Site drawings
+** Utility approvals
+** Construction permits
+** Contractors for build out
