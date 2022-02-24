@@ -5,10 +5,9 @@ id: form-business-entity
 callToActionLink: https://www.njportal.com/DOR/BusinessFormation/CompanyInformation/BusinessName
 callToActionText: Form My Business
 required: true
+issuingAgency: New Jersey Department of Treasury's Division of Revenue and Enterprise Services
 ---
-After you found an available business name, you can form your business.
-
-Form the `legal structure|legal-structure-learn-more` that you will operate under, and register that structure and name with the New Jersey Division of Revenue and Enterprise Services.
+You must register your business name and form your `legal structure|legal-structure-learn-more` with the State.
 
 ---
 ### Application Needs
@@ -22,7 +21,7 @@ Form the `legal structure|legal-structure-learn-more` that you will operate unde
 - `Registered agent|registered-agent`
 - Credit card or E-check payment
 
-> Once completed, you will have:
+> **Once completed, you will have:**
 > 
 > - `Entity ID|entity-id`
 > - `Certificate of Formation|certificate-formation`, Incorporation or Authorization as applicable
