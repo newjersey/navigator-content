@@ -13,7 +13,7 @@ radioNoContent: No further action is required.
 
 Once you have all the necessary drawings, approvals, and contractors in place, you are in a good position to get your construction or renovation started!
 
-> **Once completed,, you will have:**
+> **Once completed, you will have:**
 >
 > - Site drawings
 > - Utility approvals
