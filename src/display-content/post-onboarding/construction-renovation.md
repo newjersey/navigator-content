@@ -1,8 +1,9 @@
 ---
-radioQuestion: "Do you plan to do any renovations or construction on your commercial/industrial space?"
-radioYes: "Yes"
-radioNo: "No"
-radioNoContent: "No further action is required."
+radioQuestion: Do you plan to do any renovations or construction on your
+  commercial/industrial space?
+radioYes: Yes
+radioNo: No
+radioNoContent: No further action is required.
 ---
 
 1. **Site Drawings:** Hire an architect to create site drawings that meet your business needs and budget.
@@ -17,4 +18,4 @@ After you complete this task (if applicable), you will have:
 - Site drawings
 - Utility approvals
 - Construction permits
-- Contractors for build out
+> - Contractors for build out
